@@ -1,2 +1,2 @@
-# collision_algo
-collision algorithm for 2 rectangles in VSC
+# p5.play-boilerplate
+Boiler plate for p5.play
